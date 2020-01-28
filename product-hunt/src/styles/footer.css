@@ -1,0 +1,17 @@
+.footer-container{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    margin: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+#pp{
+    margin: 10px;
+    border-radius: 50%;
+    width: 50px;
+}

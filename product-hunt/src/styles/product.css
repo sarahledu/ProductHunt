@@ -1,0 +1,53 @@
+.triangle-symbol {
+    width: 10px;
+    height: 10px
+}
+
+.votes-count{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 0.5px solid grey;
+    border-radius: 3px;
+    height: 74px;
+    width: 64px;
+    
+}
+
+.container >img{
+    width: 80px;
+    height: 80px;
+}
+
+.product-main-container{
+    display:flex;
+    justify-content: space-between;
+    border: 0.5px solid grey;
+    padding: 5px 10px;
+    background-color: white;
+    text-decoration: none !important;
+    
+}
+.product-main-container>*{
+    color: black;
+   
+}
+
+.container{
+    display: flex;
+    
+}
+
+.info-container{
+    padding-left: 10px;
+}
+
+.day>h3{
+    width: 700px;
+    margin-top: 40px;
+}
+
+.over{
+    background-color: #f3f3f3;
+}

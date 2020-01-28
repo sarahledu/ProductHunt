@@ -20,11 +20,13 @@ code {
 }
 
 .products-container{
-  border: 0.25px solid grey;
-  border-radius:3px;
+  border-radius :5px;
   width: 700px;
-
+  overflow: hidden;
+  border: 0.5px solid grey;
+  
 }
+
 
 .main{
   justify-content: center;
@@ -37,3 +39,4 @@ code {
   flex-direction: column;
   align-items: center;
 }
+
